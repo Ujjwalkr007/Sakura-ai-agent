@@ -1,0 +1,10 @@
+customtkinter
+sounddevice
+SpeechRecognition
+numpy
+duckduckgo-search
+psutil
+Pillow
+pyautogui
+requests
+kokoro-onnx
